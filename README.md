@@ -38,7 +38,9 @@
 
 
   ## Tests
-  Screenshot on node test
+  Screenshot of command line test
+  
+![2021-11-17](https://user-images.githubusercontent.com/89271807/142289558-5225a6f1-53e8-452f-8806-72aaeec8987c.png)
 
   ## Questions
 
