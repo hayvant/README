@@ -8,7 +8,7 @@ const fs = require('fs')
 const questions = [{
     type: 'input',
     message: 'what is the title?',
-    name: 'title'
+    name: 'title',
 
 },
 {
@@ -20,7 +20,7 @@ const questions = [{
 {
     type: "input",
     message: 'how do you install the application?',
-    name: 'installation'
+    name: 'installation',
 },
 {
     type: 'input',
@@ -31,11 +31,18 @@ const questions = [{
      type: 'list',
      message: 'choose the following license',
      name: 'license',
-     choices: ['MIT', 'IBM', 'GNU', 'Apache', 'Mozilla']
+     choices: ['MIT', 'IBM', 'GNU', 'Apache', 'Mozilla'],
 },
-
-   
-
+{
+    type: 'input',
+    message: 'what is the tests',
+    name: 'tests',
+},
+{
+    type: 'input',
+    message: 'do you have questions',
+    name: 'questions',
+},
 ];
 
 // TODO: Create a function to write README file
