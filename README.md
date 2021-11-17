@@ -19,9 +19,9 @@
 
   ## Usage
   Step by step instructional video:
-  
-![2021-11-17](https://drive.google.com/file/d/1Xd703c-bzrPJW-vSfkfz6pu56b8Uhkjj/view?usp=sharing)
-  
+
+  [Walkthrough Video](https://watch.screencastify.com/v/3JUsDEnuK0n8mZpoGCcO)
+        
   Screenshot examples:
 
 ![2021-11-17](https://user-images.githubusercontent.com/89271807/142284147-364fd339-94a2-4eb5-a387-efcb6c097978.png)
